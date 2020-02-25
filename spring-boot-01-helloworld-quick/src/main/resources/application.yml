@@ -1,0 +1,14 @@
+#server.port=8082
+server:
+  port: 8081
+
+
+#personinfo:
+#  name: 张三
+#  age: 18
+#  staff: true
+#  map: {k1: 20,k2: 30}
+#  list: [1,2,3,4]
+#  g:
+#    name: 小狗
+#    age: 2
